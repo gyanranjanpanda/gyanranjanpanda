@@ -1,5 +1,5 @@
 
-# Hi there, I'm <Your Name> 👋
+# Hi there, I'm Gyanranjan Panda 👋
 
 ### 🚀 Aspiring Open Source Contributor | Systems & Backend Developer
 
@@ -41,8 +41,8 @@ My goal is to participate in the **Summer of Bitcoin** to help build the future 
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gyanranjanpanda&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gyanranjanpanda&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
@@ -50,7 +50,7 @@ My goal is to participate in the **Summer of Bitcoin** to help build the future 
 ### ⚡ Activity
 
 <p align="left">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=gyanranjanpanda&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
@@ -58,5 +58,5 @@ My goal is to participate in the **Summer of Bitcoin** to help build the future 
 ### 📫 Connect with Me
 
 <!-- Add your social links here -->
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/yourprofile)
-[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/yourhandle)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/gyanranjanpanda)
+[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/gyanranjanpanda)
