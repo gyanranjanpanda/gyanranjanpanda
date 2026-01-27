@@ -54,22 +54,6 @@ I am a passionate developer focused on **Systems Programming** and **Distributed
 
 ---
 
-### ⚡ GitHub Streak
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gyanranjanpanda&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=gyanranjanpanda&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-</p>
-
----
-
 ### 📫 Connect with Me
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/gyanranjanpanda)
