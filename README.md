@@ -1,11 +1,9 @@
 
 # Hi there, I'm Gyanranjan Panda 👋
 
-### 🚀 Aspiring Open Source Contributor | Systems & Backend Developer
+### 🚀 Systems & Backend Developer
 
-I am a passionate developer driven by the potential of **Open Source** software and decentralized technologies. I am currently focused on honing my skills in **Systems Programming** and **Distributed Systems** to contribute meaningfully to the **Bitcoin** ecosystem.
-
-My goal is to participate in the **Summer of Bitcoin** to help build the future of finance.
+I am a passionate developer focused on **Systems Programming** and **Distributed Systems**. I specialize in building high-performance backend systems and contributing to complex software projects. Currently exploring blockchain technologies and decentralized systems.
 
 ---
 
@@ -13,6 +11,7 @@ My goal is to participate in the **Summer of Bitcoin** to help build the future 
 
 **Languages**
 <p>
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
   <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
@@ -47,16 +46,31 @@ My goal is to participate in the **Summer of Bitcoin** to help build the future 
 
 ---
 
-### ⚡ Activity
+### 📈 Contribution Graph
 
 <p align="left">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gyanranjanpanda&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gyanranjanpanda&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+</p>
+
+---
+
+### ⚡ GitHub Streak
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gyanranjanpanda&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=gyanranjanpanda&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 </p>
 
 ---
 
 ### 📫 Connect with Me
 
-<!-- Add your social links here -->
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/gyanranjanpanda)
 [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/gyanranjanpanda)
