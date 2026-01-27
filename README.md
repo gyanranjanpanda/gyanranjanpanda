@@ -3,7 +3,7 @@
 
 ### 🚀 Systems & Backend Developer
 
-I am a passionate developer focused on **Systems Programming** and **Distributed Systems**. I specialize in building high-performance backend systems and contributing to complex software projects. Currently exploring blockchain technologies and decentralized systems.
+I am a passionate developer focused on **Systems Programming** and **Distributed Systems**. I specialize in building high-performance backend systems and actively contribute to open source projects. Currently exploring blockchain technologies and decentralized systems.
 
 ---
 
