@@ -15,7 +15,7 @@ I am a passionate developer focused on **Systems Programming** and **Distributed
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
   <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSviqUs3RZ3JZ9G7VO7l6EfNqgVlOLxb45xg&s" alt="GO" />
+  
 "
 </p>
 
