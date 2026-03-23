@@ -1,9 +1,8 @@
-
 # Hi there, I'm Gyanranjan Panda 👋
 
 ### 🚀 Systems & Backend Developer
 
-I am a passionate developer focused on **Systems Programming** and **Distributed Systems**. I specialize in building high-performance backend systems and actively contribute to open source projects. Currently exploring blockchain technologies and decentralized systems.
+I am a passionate developer specializing in **Systems Programming** and **Distributed Systems**. I focus on building high-performance, scalable backend architectures and actively contribute to the open-source community. Currently, I am exploring advanced blockchain technologies and decentralized ecosystems.
 
 ---
 
@@ -15,8 +14,6 @@ I am a passionate developer focused on **Systems Programming** and **Distributed
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
   <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  
-"
 </p>
 
 **Web Development**
@@ -42,8 +39,8 @@ I am a passionate developer focused on **Systems Programming** and **Distributed
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=gyanranjanpanda&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gyanranjanpanda&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gyanranjanpanda&show_icons=true&theme=tokyonight&hide_border=true&title_color=38bdf8&icon_color=38bdf8" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gyanranjanpanda&layout=compact&theme=tokyonight&hide_border=true&title_color=38bdf8" alt="Top Languages" />
 </p>
 
 ---
@@ -51,12 +48,14 @@ I am a passionate developer focused on **Systems Programming** and **Distributed
 ### 📈 Contribution Graph
 
 <p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gyanranjanpanda&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gyanranjanpanda&theme=tokyo-night&hide_border=true&area=true&color=38bdf8&line=38bdf8&point=ffffff" alt="Contribution Graph" />
 </p>
 
 ---
 
 ### 📫 Connect with Me
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/gyanranjanpanda)
-[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/gyanranjanpanda)
+<p align="left">
+  <a href="https://linkedin.com/in/gyanranjanpanda"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/gyanranjanpanda"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+</p>
